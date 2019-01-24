@@ -15,14 +15,20 @@
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/jiaqian.png" width="30%" height="30%">
 </div>
 
+<br>
+
 <div> 
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/login.jpg" width="30%" height="30%">
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/info.jpg" width="30%" height="30%">
 </div>
 
+<br>
+
 <div> 
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/pwd.jpg" width="30%" height="30%">
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/complete.jpg" width="30%" height="30%">
 </div>
+
+<br>
 
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/paysuccess.png" width="30%" height="30%">
