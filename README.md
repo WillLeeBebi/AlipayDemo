@@ -25,6 +25,8 @@
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/complete.jpg" width="30%" height="30%">
 </div>
 
+
+<div>
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/paysuccess.png" width="30%" height="30%">
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/pay_cancel.png" width="30%" height="30%">
-
+</div>
