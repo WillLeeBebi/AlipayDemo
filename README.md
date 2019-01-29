@@ -32,3 +32,7 @@
 <br>
 
 <img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/paysuccess.png" width="30%" height="30%">
+
+***
+更多技术干货，欢迎关注我的公众号：ChaoYoung
+<br><img src="https://github.com/yangxch/AlipayDemo/raw/master/screenshot/qrcode_chaoyoung.jpg" width="20%" height="20%">
